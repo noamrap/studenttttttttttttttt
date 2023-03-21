@@ -1,0 +1,304 @@
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\LItanProject.dll.config
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\LItanProject.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\LItanProject.pdb
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csc.exe
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csc.exe.config
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csc.rsp
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csi.exe
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csi.exe.config
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\csi.rsp
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.AppContext.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Console.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Net.Http.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\vbc.exe
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\vbc.exe.config
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\vbc.rsp
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\obj\Debug\LItanProject.dll
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\obj\Debug\LItanProject.pdb
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\App_Data\Users.mdf
+C:\Users\STUDENT\source\repos\LItanProject\LItanProject\bin\App_Data\Users_log.ldf
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\App_Data\Users.mdf
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\App_Data\Users_log.ldf
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\LItanProject.dll.config
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\LItanProject.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\LItanProject.pdb
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csc.exe
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csc.exe.config
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csc.rsp
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csi.exe
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csi.exe.config
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\csi.rsp
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.AppContext.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Console.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Net.Http.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.exe
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.exe.config
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.rsp
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\litan\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.AssemblyReference.cache
+C:\Users\litan\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CoreCompileInputs.cache
+C:\Users\litan\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CopyComplete
+C:\Users\litan\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.dll
+C:\Users\litan\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.pdb
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\App_Data\Users.mdf
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\App_Data\Users_log.ldf
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\LItanProject.dll.config
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\LItanProject.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\LItanProject.pdb
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csc.exe
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csc.exe.config
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csc.rsp
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csi.exe
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csi.exe.config
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\csi.rsp
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.AppContext.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Console.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Net.Http.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\vbc.exe
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\vbc.exe.config
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\vbc.rsp
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.AssemblyReference.cache
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CoreCompileInputs.cache
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CopyComplete
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\obj\Debug\LItanProject.dll
+C:\Users\litan\OneDrive\שולחן העבודה\LItanProject\LItanProject\obj\Debug\LItanProject.pdb
+D:\LItanProject\LItanProject\bin\App_Data\Users.mdf
+D:\LItanProject\LItanProject\bin\App_Data\Users_log.ldf
+D:\LItanProject\LItanProject\bin\LItanProject.dll.config
+D:\LItanProject\LItanProject\bin\LItanProject.dll
+D:\LItanProject\LItanProject\bin\LItanProject.pdb
+D:\LItanProject\LItanProject\bin\roslyn\csc.exe
+D:\LItanProject\LItanProject\bin\roslyn\csc.exe.config
+D:\LItanProject\LItanProject\bin\roslyn\csc.rsp
+D:\LItanProject\LItanProject\bin\roslyn\csi.exe
+D:\LItanProject\LItanProject\bin\roslyn\csi.exe.config
+D:\LItanProject\LItanProject\bin\roslyn\csi.rsp
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LItanProject\LItanProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.AppContext.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Collections.Immutable.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Console.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Net.Http.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Net.Sockets.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.ValueTuple.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.dll
+D:\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LItanProject\LItanProject\bin\roslyn\vbc.exe
+D:\LItanProject\LItanProject\bin\roslyn\vbc.exe.config
+D:\LItanProject\LItanProject\bin\roslyn\vbc.rsp
+D:\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe
+D:\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe.config
+D:\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.AssemblyReference.cache
+D:\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CoreCompileInputs.cache
+D:\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CopyComplete
+D:\LItanProject\LItanProject\obj\Debug\LItanProject.dll
+D:\LItanProject\LItanProject\obj\Debug\LItanProject.pdb
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\App_Data\Users.mdf
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\App_Data\Users_log.ldf
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\LItanProject.dll.config
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\LItanProject.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\LItanProject.pdb
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csc.exe
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csc.exe.config
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csc.rsp
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csi.exe
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csi.exe.config
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\csi.rsp
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Console.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.exe
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.exe.config
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\vbc.rsp
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.AssemblyReference.cache
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.csproj.CopyComplete
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.dll
+C:\Users\USER\Searches\Downloads\LItanProject\LItanProject\obj\Debug\LItanProject.pdb

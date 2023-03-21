@@ -1,0 +1,12 @@
+﻿.HomeStyle {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #ffffff;
+    color: #7FFFD4;
+    border: 3px solid black;
+}
+body {
+    background-image: url("https://i.pinimg.com/736x/5e/d4/3f/5ed43f59a1b16b4ff7810a45f04468ae--sony-xperia-z-view-source.jpg");
+}

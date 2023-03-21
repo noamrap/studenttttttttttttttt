@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Forum</title>
+    <style>
+        body {
+            background-image: url('forum-title-isolated-background-surounded-multimedia-view-icons-internet-concept-89900714.jpg');
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+
+        .forum {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        h1, h2 {
+            text-align: center;
+            text-shadow: 2px 2px #fff;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        label, input, textarea {
+            display: block;
+            margin-bottom: 13px;
+            font-size: 17px;
+        }
+        body {
+            font-size: 21px;
+        }
+
+            input[type="submit"] {
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                padding: 10px 20px;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+                input[type="submit"]:hover {
+                    background-color: #0069d9;
+                }
+
+        .question {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+
+        .answer {
+            background-color: #f0f0f0;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .author {
+            font-style: italic;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="forum" id="forum">
+        <h1>Student Forum</h1>
+        <form>
+            <label for="question">Ask a question:</label>
+            <textarea id="question" name="question" rows="5" cols="80"></textarea>
+            <label for="name">Your name:</label>
+            <input type="text" id="name" name="name">
+            <input type="submit" value="Submit">
+        </form>
+        <hr>
+        <h2>Recent questions:</h2>
+        <div class="question">
+            <p>How do I solve this math problem?</p>
+            </div>
+            <div class="answer">
+                <p>First, you need to identify the problem type...</p>
+                <p class="author">- David Levy</p>
+            </div>
+            <div class="answer">
+                <p>Another way to solve it is by using a formula...</p>
+                <p class="author">- Roni Alon</p>
+            </div>
+            <div class="answer">
+                <p>Read the problem carefully and understand what is being asked.</p>
+                <p class="author">- Noa Cohen</p>
+            </div>
+            <div class="question">
+                <p>What's the best way to study for exams?</p>
+                <div class="answer">
+                    <p>My strategy is to break down the material into smaller chunks...</p>
+                    <p class="author">- Yael Azulay</p>
+                </div>
+                <div class="answer">
+                    <p>I find that studying with a group helps me stay motivated...</p>
+                    <p class="author">- Itamar Levi</p>
+                </div>
+                <div class="answer">
+                    <p>Start early: Don't wait until the last minute to start studying. Give yourself plenty of time to review the material and practice.</p>
+                    <p class="author">- Rachel Biton</p>
+                </div>
+            </div>
+            <script>
+                const forum = document.getElementById('forum');
+                const form = forum.querySelector('form');
+                const questionInput = form.querySelector('#question');
+                const nameInput = form.querySelector('#name');
+
+                form.addEventListener('submit', (event) => {
+                    event.preventDefault();
+
+                    const question = questionInput.value;
+                    const name = nameInput.value;
+
+                    const questionElement = document.createElement('div');
+                    questionElement.classList.add('question');
+                    questionElement.innerHTML = `
+                                    <p>${question}</p>
+                                    <div class="answer">
+                                        <p>A new question has been posted!</p>
+                                    </div>
+                                    <p class="author">- ${name}</p>
+                                `;
+
+                    forum.insertBefore(questionElement, form);
+                    questionInput.value = '';
+                    nameInput.value = '';
+                });
+            </script>
+</body>
+</html>

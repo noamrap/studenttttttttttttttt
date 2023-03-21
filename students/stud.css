@@ -1,0 +1,78 @@
+﻿nav {
+    background-color: #8B5A2B;
+    height: 174px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .logo img {
+        width: 150px;
+        height: 150px;
+    }
+
+.slogan {
+    color: #fff;
+    font-size: 28px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+}
+
+.menu li {
+    margin-left: 20px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    transition: all 0.2s ease-in-out;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+    .menu a:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        transform: scale(1.1);
+    }
+
+    body {
+  background-image: url('Fotor_AI.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+body {
+    margin: 0;
+    padding: 0;
+}

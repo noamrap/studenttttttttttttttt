@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Currency Converter</title>
+    <style>
+        /* CSS for page styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/010/067/576/original/monopoly-money-background-free-vector.jpg');
+        }
+
+        h1 {
+            text-align: center;
+            color: #2f2f2f;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-top: 30px;
+        }
+
+        label {
+            margin-bottom: 10px;
+            color: #2f2f2f;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: none;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+        .my-button-class {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .my-button-class:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <button onclick="window.location.href='Games.html';" style="background-color:#4CAF50; position: fixed; top: 10px; right: 10px; border: none; color: #000000; padding: 10px; border-radius: 50px; cursor: pointer;">Back to Menu</button>
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        .header {
+            margin-top: 50px;
+            background-color: white;
+            padding: 10px;
+        }
+    </style>
+    <div class="header">
+        <h1 style="font-size: 30px; margin-top: 0;">Israeli and American currency exchange🤑</h1>
+    </div>
+    <form>
+        <label for="amount" style="font-size: 20px;"><span style="background-color: white; padding: 5px;"><b>Amount:</b></span></label>
+        <input type="number" id="amount" placeholder="Enter amount" required style="font-size: 20px; font-weight: bold; font-family: Arial, sans-serif;">
+        <label for="from_currency" style="font-size: 20px;"><span style="background-color: white; padding: 5px;"><b>From:</b></span></label>
+        <select id="from_currency" style="font-size: 20px;">
+            <option value="ILS">Israeli Shekel</option>
+            <option value="USD">US Dollar</option>
+        </select>
+        <label for="to_currency" style="font-size: 20px;"><span style="background-color: white; padding: 5px;"><b>To:</b></span></label>
+        <select id="to_currency" style="font-size: 20px;">
+            <option value="USD">US Dollar</option>
+            <option value="ILS">Israeli Shekel</option>
+        </select>
+        <input type="submit" value="Convert" class="my-button-class" style="font-size: 20px;">
+    </form>
+    <div id="result" style="font-size: 20px;"></div>
+
+    <script>
+        // JavaScript for currency conversion
+        const form = document.querySelector('form');
+        const amount = document.getElementById('amount');
+        const fromCurrency = document.getElementById('from_currency');
+        const toCurrency = document.getElementById('to_currency');
+        const result = document.getElementById('result');
+        const url = 'https://api.exchangerate-api.com/v4/latest/';
+
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const from = fromCurrency.value;
+            const to = toCurrency.value;
+            const value = amount.value;
+
+            fetch(`${url}${from}`)
+                .then(response => response.json())
+                .then(data => {
+                    const rate = data.rates[to];
+                    const convertedValue = (value * rate).toFixed(2);
+                    result.innerHTML = `${value} ${from} is equal to ${convertedValue} ${to}`;
+                });
+        });
+    </script>
+</body>
+</html>

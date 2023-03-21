@@ -1,0 +1,42 @@
+﻿.login-form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/736x/5e/d4/3f/5ed43f59a1b16b4ff7810a45f04468ae--sony-xperia-z-view-source.jpg");
+}
+
+
+.btn-login {
+    width: 170px;
+    height: 30px;
+    background: #990012;
+    background-image: url();
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.login-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    height: 220px;
+}
+
+.errMsg {
+    color: #FF0000;
+    font-size: 19px;
+}
+
+
+.error-container {
+    margin-top: 125px;
+}

@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam Tips</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="tips.css" rel="stylesheet" />
+    <script src="tips.js"></script>
+</head>
+<body>
+    <style>
+        button.use-button {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            background-color: #222;
+            color: #fff;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.2s ease-in-out;
+        }
+
+            button.use-button:hover {
+                background-color: #111;
+            }
+
+            button.use-button:active {
+                transform: translateY(2px);
+                box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+            }
+    </style>    
+    <h1>Exam Tips</h1>
+    <p>
+        <h1>
+        To reveal the next tip, click the button:
+        "I will use the tip"
+
+        He is hard to get
+        Because you must understand the tip before you skip to the next one!
+        </h1>
+    </p>
+    <br />
+    <br />
+    <br />
+    <button id="reveal-button" onclick="revealTip()">Reveal a tip</button>
+    <div id="tips-container">
+        <div class="tip" id="tip1">
+            <h2>Tip 1</h2>
+            <p>Start studying early.</p>
+            <button class="use-button" onclick="useTip(1)">I will use the tip</button>
+        </div>
+        <div class="tip" id="tip2" style="display:none">
+            <h2>Tip 2</h2>
+            <p>Create a study schedule.</p>
+            <button class="use-button" onclick="useTip(2)">I will use the tip</button>
+        </div>
+        <div class="tip" id="tip3" style="display:none">
+            <h2>Tip 3</h2>
+            <p>Practice, practice, practice.</p>
+            <button class="use-button" onclick="useTip(3)">I will use the tip</button>
+        </div>
+    </div>
+    <div class="tip" id="tip4" style="display:none">
+        <h2>Tip 4</h2>
+        <p>Take breaks and stay hydrated.</p>
+        <button class="use-button" onclick="useTip(4)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip5" style="display:none">
+        <h2>Tip 5</h2>
+        <p>Take breaks frequently while studying to prevent burnout and improve focus.</p>
+        <button class="use-button" onclick="useTip(5)">I will use the tip</button>
+    </div>
+
+    <div class="tip" id="tip6" style="display:none">
+        <h2>Tip 6</h2>
+        <p>Use mnemonic devices, such as acronyms or visual aids, to help memorize complex information.</p>
+        <button class="use-button" onclick="useTip(6)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip7" style="display:none">
+        <h2>Tip 7</h2>
+        <p>Stay hydrated and nourished while studying to maintain focus and energy.</p>
+        <button class="use-button" onclick="useTip(7)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip8" style="display:none">
+        <h2>Tip 8</h2>
+        <p>Join a study group or find a study partner to share knowledge and stay motivated.</p>
+        <button class="use-button" onclick="useTip(8)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip9" style="display:none">
+        <h2>Tip 9</h2>
+        <p>Break down complex information into smaller, more manageable parts to aid comprehension.</p>
+        <button class="use-button" onclick="useTip(9)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip10" style="display:none">
+        <h2>Tip 10</h2>
+        <p>Eliminate distractions while studying, such as social media or television, to improve focus.</p>
+        <button class="use-button" onclick="useTip(10)">I will use the tip</button>
+    </div>
+    <div class="tip" id="tip11" style="display:none">
+        <h2>Tip 11</h2>
+        <p>Use a variety of study methods, such as reading, writing, and practicing, to engage different learning styles.</p>
+        <button class="use-button" onclick="useTip(11)">I will use the tip</button>
+    </div>
+</body>
+</html>

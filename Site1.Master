@@ -1,0 +1,55 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="LItanProject.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/NavBar.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="TaskBar" id="TaskBar">
+        <div class="Bar Veterans">
+            <a href="Home.aspx">
+                <img class="barvlogo" src="https://media.istockphoto.com/id/1225018855/vector/super-businessman-background-symbol.jpg?s=612x612&w=0&k=20&c=pnRiR8UGAXkGz9BgE3y3vN0IGWhYj1VAIL9BefAdewI=" width="85" height="55" alt="site logo" id="barvlogo" />
+            </a>
+        </div>
+        <div>
+            <a class="barv" href="~/Pages/Register.aspx" id="register" runat="server">Register</a>
+            <a class="barv" href="~/Pages/Login.aspx" id="login" runat="server">Login</a>
+            <a class="barv" href="~/Pages/Logout.aspx" id="logout" runat="server">Logout</a>
+            <a class="barv" href="Home.aspx">Home</a>
+            <a class="barv" href="~/Pages/Admin.aspx" id="admin" runat="server">Admin</a>
+         
+
+        </div>
+            </div>
+        <br />
+        <br />
+        <div>
+            <p style="width: 26%; color: #34495e; font-size: 27px;" class="wellcome"><%="Wellcome " + Session["UserName"] %> </p>
+            <div class="textforpage">
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+           
+                <p id="textforpage" runat="server">Please login to continue</p>
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

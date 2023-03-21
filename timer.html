@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Timer App</title>
+
+    <link href="timer.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="css-body">
+        <div class="container">
+            <div class="timer-box">
+                <div class="timer-header">
+                    <a href="#" class="back-button">&larr;</a>
+                    <h1>Timer</h1>
+                    <div></div>
+                </div>
+                <div class="timer-body">
+                    <div class="timer-display" id="timer-display">0:00</div>
+                    <div class="timer-buttons">
+                        <button id="start-btn">Start</button>
+                        <button id="pause-btn">Pause</button>
+                        <button id="reset-btn">Reset</button>
+                    </div>
+                    <div class="timer-input">
+                        <label for="minutes-input">Minutes</label>
+                        <input type="number" id="minutes-input" min="0" max="60" placeholder="0">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="JavaScriptMEMORY.js"></script>
+</body>
+</html>

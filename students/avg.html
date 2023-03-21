@@ -1,0 +1,104 @@
+﻿<style>
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Arial, sans-serif;
+        margin-top: 50px;
+    }
+        form label[for="average"] {
+            margin-right: 140px;
+        }
+
+        form label {
+            display: inline-block;
+            width: 200px;
+            text-align: right;
+            margin-right: 10px;
+            font-size: 18px;
+        }
+
+        form input[type='number'],
+        form input[type='text'] {
+            width: 100px;
+            padding: 5px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background-color: #f0f0f0;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+            form input[type='number']:hover,
+            form input[type='text']:hover {
+                background-color: #e0e0e0;
+            }
+
+            form input[type='number']:focus,
+            form input[type='text']:focus {
+                outline: none;
+                background-color: #d0d0d0;
+            }
+
+        form #grades-container {
+            margin-bottom: 20px;
+        }
+
+        form button {
+            padding: 10px 20px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+    body {
+        background-image: url('pngtree-college-entrance-test-cartoon-education-banner-background-image_257536.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+<div style="font-family: cursive; font-size: 24px; text-align: center;">Here you can calculate average grades:</div>
+<form>
+    <label for="num-grades">Number of grades:</label>
+    <input type="number" id="num-grades" name="num-grades"><br><br>
+    <div id="grades-container"></div><br>
+    <button onclick="calculate(event)">Calculate</button><br><br>
+    <label for="average">Average:</label>
+    <input type="text" id="average" name="average" readonly><br><br>
+</form>
+
+<script>
+    function calculate(event) {
+        event.preventDefault(); // prevent page refresh
+        let numGrades = document.getElementById('num-grades').value;
+        let sum = 0;
+
+        for (let i = 1; i <= numGrades; i++) {
+            let grade = document.getElementById('grade' + i).value;
+            sum += Number(grade);
+        }
+
+        let average = sum / numGrades;
+
+        document.getElementById('average').value = average.toFixed(2);
+    }
+
+    document.getElementById('num-grades').addEventListener('input', function () {
+        let numGrades = document.getElementById('num-grades').value;
+        let gradesContainer = document.getElementById('grades-container');
+        gradesContainer.innerHTML = '';
+
+        for (let i = 1; i <= numGrades; i++) {
+            let input = document.createElement('input');
+            input.type = 'number';
+            input.id = 'grade' + i;
+            input.name = 'grade' + i;
+            gradesContainer.appendChild(input);
+            gradesContainer.appendChild(document.createElement('br'));
+        }
+    });
+</script>
